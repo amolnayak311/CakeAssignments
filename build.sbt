@@ -1,0 +1,5 @@
+name := "CakeAssignments"
+version := "1.0"
+scalaVersion := "2.11.8"
+resolvers += "Maven Repository" at "https://mvnrepository.com/artifact/"
+libraryDependencies += "org.scalatest" % "scalatest_2.11" % "2.2.6"
